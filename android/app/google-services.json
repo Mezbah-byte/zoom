@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "912828060468",
+    "firebase_url": "https://chatapp-e6ae6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chatapp-e6ae6",
+    "storage_bucket": "chatapp-e6ae6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912828060468:android:7cc51a9b53a51c81fe8b61",
+        "android_client_info": {
+          "package_name": "com.example.msg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912828060468-nl2mjd04k9l78hkq64lcdqj6h55ifbc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTYwmDgS29uOB9dbkgBulPemzTb1BTyl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912828060468-nl2mjd04k9l78hkq64lcdqj6h55ifbc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912828060468:android:18f2b28b65c71c19fe8b61",
+        "android_client_info": {
+          "package_name": "com.example.zoom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912828060468-nl2mjd04k9l78hkq64lcdqj6h55ifbc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTYwmDgS29uOB9dbkgBulPemzTb1BTyl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912828060468-nl2mjd04k9l78hkq64lcdqj6h55ifbc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912828060468:android:c89e8d76dfc09848fe8b61",
+        "android_client_info": {
+          "package_name": "com.example.zoom_calling_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912828060468-nl2mjd04k9l78hkq64lcdqj6h55ifbc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTYwmDgS29uOB9dbkgBulPemzTb1BTyl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912828060468-nl2mjd04k9l78hkq64lcdqj6h55ifbc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912828060468:android:a011ee4026690595fe8b61",
+        "android_client_info": {
+          "package_name": "com.mezbahur.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912828060468-nl2mjd04k9l78hkq64lcdqj6h55ifbc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTYwmDgS29uOB9dbkgBulPemzTb1BTyl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912828060468-nl2mjd04k9l78hkq64lcdqj6h55ifbc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
